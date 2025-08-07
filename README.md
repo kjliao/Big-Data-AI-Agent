@@ -5,6 +5,6 @@
 </div>
 
 # Features
-- **Fetch files from websites**
-- **Perform statistical analysis**
-- **Generate plots**
+- **Fetch files from websites 🌐**
+- **Perform statistical analysis 🔢**
+- **Generate plots 📊**
